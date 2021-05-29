@@ -1,0 +1,36 @@
+.contact {
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.contact-second {
+  margin-top: 2rem;
+}
+
+.contact a {
+  text-decoration: none;
+  font-weight: 500;
+  color: black;
+  /* color: #1A80D9; */
+}
+
+.contact a:hover {
+  text-decoration: line-through #1A80D9;
+}
+
+@media screen and (max-width: 490px) {
+  .contact h2 {
+    font-size: 1.3rem;
+  }
+  .contact-links {
+    font-size: 1.4rem;
+  }
+  .contact {
+    text-align: left;
+    margin-top: 40%;
+  }
+}

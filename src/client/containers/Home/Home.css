@@ -1,0 +1,15 @@
+
+
+.home {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+@media screen and (max-width: 850px) {
+  div.main-container {
+    padding: 4em;
+  }
+  .home {
+    grid-template-columns: 1fr;
+  }
+}

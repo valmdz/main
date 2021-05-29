@@ -1,7 +1,43 @@
-.App {
-  text-align: center;
+/* .App {
+  margin: 1em 8em;
+} */
+
+/* .App:first-child{
+  height: 5vh;
 }
 
+.App:nth-child(2){
+  height: 95vh;
+} */
+
+.main-container {
+  padding: 8em;
+}
+
+@media screen and (max-width: 767px) {
+  div.main-container {
+    padding: 4em;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .App {
+    margin: 3em;
+  }
+  div.main-container {
+    padding: 1em 0;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .App {
+    margin: 1.5em 2em;
+  }
+}
+
+
+
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +71,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

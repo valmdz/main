@@ -1,0 +1,55 @@
+.cv-list li {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.4em;
+  border-bottom: 1px solid #DBB027;
+}
+
+.cv-list {
+  /* list-style: '\1433';
+  font-size: 1em; */
+  padding-left: 0;
+  list-style: none;
+}
+
+.cv-grid{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr [col-start]);
+  column-gap: 2em;
+}
+
+span.year {
+  font-weight: 500;
+}
+
+span.at {
+  padding: 0 0.5rem;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+
+@media screen and (max-width: 767px) {
+  .cv-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr [col-start]);
+    column-gap: 2em;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .cv-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr [col-start]);
+    column-gap: 1em;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .cv li{
+    font-size: 1.1rem;
+  }
+  .cv h1{
+    font-size: 1.5rem;
+  }
+}
