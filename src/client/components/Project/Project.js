@@ -4,8 +4,6 @@ import * as Projects from "./Projects.js";
 import Github from "../../assets/icons/github.svg";
 import Website from "../../assets/icons/website.svg";
 
-// import Retrato from "../../assets/images/projects/project-";
-
 export const Project = () => {
   return (
     <>

@@ -27,16 +27,12 @@
 
 .hover-image {
   visibility: hidden;
-  /* display: flex; */
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;
   pointer-events: none;
-  /* flex-direction: column;
-  align-items: center;
-  justify-content: center; */
 }
 
 .hover-image:hover {
@@ -74,7 +70,6 @@ body:not(.mobile) .hover-text:hover+.hover-image {
 
 @media screen and (max-width: 490px) {
   .home-presentation {
-    /* margin-top: 40%; */
     font-size: 2rem;
     width: 90%;
   }

@@ -53,7 +53,7 @@ export const About = () => {
         <a href="mailto:valentina.mdz@gmail.com">valentina.mdz@gmail.com</a>
       </h2>
       <a
-        href="https://www.oulu.fi/architecture/"
+        href="https://drive.google.com/file/d/1-biFp_9_1kSKhDjHquzrZresdX5RHTlH/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="circle-link" 
