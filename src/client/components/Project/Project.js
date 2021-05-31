@@ -21,13 +21,21 @@ export const Project = () => {
             } */}
             <div className="icons-link">
               {p.links.website && (
-                <a href={`${p.links.website}`}>
+                <a
+                  href={`${p.links.website}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src={Website} alt="icon" className="icon" />
                 </a>
               )}
 
               {p.links.github && (
-                <a href={`${p.links.github}`}>
+                <a
+                  href={`${p.links.github}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src={Github} alt="icon" className="icon" />
                 </a>
               )}
