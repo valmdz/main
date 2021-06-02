@@ -1,10 +1,8 @@
-
-
 .project-element img {
   width: 100%;
 }
 
-.project-element > *{
+.project-element>* {
   font-weight: 400;
 }
 
@@ -27,11 +25,21 @@
   font-size: 1.2rem;
 }
 
-img.icon{
+img.icon {
   width: 1.5rem;
-  margin-right: 1em;
+  margin-right: 1rem;
+  margin-top: 0.5rem;
 }
 
+.keywords {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 2rem;
+}
+
+.highlight {
+  font-weight: 500;
+}
 
 @media screen and (max-width: 767px) {
   .projects-group {
@@ -43,10 +51,10 @@ img.icon{
   .projects-group {
     grid-template-columns: 1fr;
   }
-  .project-element{
+  .project-element {
     border-bottom: solid 1px #DBB027;
   }
-  img.icon{
+  img.icon {
     margin-bottom: 2em;
   }
 }
