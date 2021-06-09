@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.786cec6b.chunk.css",
-    "main.js": "/static/js/main.296e0616.chunk.js",
-    "main.js.map": "/static/js/main.296e0616.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bcf6ae57.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bcf6ae57.js.map",
-    "static/js/2.f756e2fb.chunk.js": "/static/js/2.f756e2fb.chunk.js",
-    "static/js/2.f756e2fb.chunk.js.map": "/static/js/2.f756e2fb.chunk.js.map",
-    "static/js/3.56140b97.chunk.js": "/static/js/3.56140b97.chunk.js",
-    "static/js/3.56140b97.chunk.js.map": "/static/js/3.56140b97.chunk.js.map",
+    "main.css": "/static/css/main.6d877473.chunk.css",
+    "main.js": "/static/js/main.1cca53f0.chunk.js",
+    "main.js.map": "/static/js/main.1cca53f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.10ebfd9c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.10ebfd9c.js.map",
+    "static/js/2.21b240d6.chunk.js": "/static/js/2.21b240d6.chunk.js",
+    "static/js/2.21b240d6.chunk.js.map": "/static/js/2.21b240d6.chunk.js.map",
+    "static/js/3.4e8966b2.chunk.js": "/static/js/3.4e8966b2.chunk.js",
+    "static/js/3.4e8966b2.chunk.js.map": "/static/js/3.4e8966b2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.786cec6b.chunk.css.map": "/static/css/main.786cec6b.chunk.css.map",
-    "static/js/2.f756e2fb.chunk.js.LICENSE.txt": "/static/js/2.f756e2fb.chunk.js.LICENSE.txt",
+    "static/css/main.6d877473.chunk.css.map": "/static/css/main.6d877473.chunk.css.map",
+    "static/js/2.21b240d6.chunk.js.LICENSE.txt": "/static/js/2.21b240d6.chunk.js.LICENSE.txt",
     "static/media/SeeCv-link-01.5d1d540a.svg": "/static/media/SeeCv-link-01.5d1d540a.svg",
     "static/media/Valentina.117b9d46.png": "/static/media/Valentina.117b9d46.png",
-    "static/media/autoretrato.f1e2bab4.png": "/static/media/autoretrato.f1e2bab4.png",
+    "static/media/autoretrato.68308475.svg": "/static/media/autoretrato.68308475.svg",
     "static/media/github.04be58c1.svg": "/static/media/github.04be58c1.svg",
     "static/media/project-animo.cb35f348.jpg": "/static/media/project-animo.cb35f348.jpg",
     "static/media/project-fastest.14ea9abb.jpg": "/static/media/project-fastest.14ea9abb.jpg",
@@ -26,9 +26,9 @@
     "static/media/website.16ad54be.svg": "/static/media/website.16ad54be.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcf6ae57.js",
-    "static/js/2.f756e2fb.chunk.js",
-    "static/css/main.786cec6b.chunk.css",
-    "static/js/main.296e0616.chunk.js"
+    "static/js/runtime-main.10ebfd9c.js",
+    "static/js/2.21b240d6.chunk.js",
+    "static/css/main.6d877473.chunk.css",
+    "static/js/main.1cca53f0.chunk.js"
   ]
 }
