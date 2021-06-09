@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfeb538a.chunk.css",
-    "main.js": "/static/js/main.2d2e6dde.chunk.js",
-    "main.js.map": "/static/js/main.2d2e6dde.chunk.js.map",
+    "main.css": "/static/css/main.b0fec2f0.chunk.css",
+    "main.js": "/static/js/main.4f25d840.chunk.js",
+    "main.js.map": "/static/js/main.4f25d840.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10ebfd9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.10ebfd9c.js.map",
     "static/js/2.21b240d6.chunk.js": "/static/js/2.21b240d6.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/3.4e8966b2.chunk.js": "/static/js/3.4e8966b2.chunk.js",
     "static/js/3.4e8966b2.chunk.js.map": "/static/js/3.4e8966b2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cfeb538a.chunk.css.map": "/static/css/main.cfeb538a.chunk.css.map",
+    "static/css/main.b0fec2f0.chunk.css.map": "/static/css/main.b0fec2f0.chunk.css.map",
     "static/js/2.21b240d6.chunk.js.LICENSE.txt": "/static/js/2.21b240d6.chunk.js.LICENSE.txt",
     "static/media/SeeCv-link-01.5d1d540a.svg": "/static/media/SeeCv-link-01.5d1d540a.svg",
-    "static/media/Valentina.117b9d46.png": "/static/media/Valentina.117b9d46.png",
+    "static/media/Valentina-blob.242019f9.png": "/static/media/Valentina-blob.242019f9.png",
     "static/media/autoretrato.68308475.svg": "/static/media/autoretrato.68308475.svg",
-    "static/media/github.04be58c1.svg": "/static/media/github.04be58c1.svg",
+    "static/media/github.d138525d.svg": "/static/media/github.d138525d.svg",
     "static/media/project-animo.cb35f348.jpg": "/static/media/project-animo.cb35f348.jpg",
     "static/media/project-fastest.14ea9abb.jpg": "/static/media/project-fastest.14ea9abb.jpg",
     "static/media/project-feast.f7c10a46.jpg": "/static/media/project-feast.f7c10a46.jpg",
@@ -23,12 +23,12 @@
     "static/media/project-review.7bd2204c.jpg": "/static/media/project-review.7bd2204c.jpg",
     "static/media/project-vianney.bad3b797.jpg": "/static/media/project-vianney.bad3b797.jpg",
     "static/media/project-weather.72cd0a1b.jpg": "/static/media/project-weather.72cd0a1b.jpg",
-    "static/media/website.16ad54be.svg": "/static/media/website.16ad54be.svg"
+    "static/media/website.192b346e.svg": "/static/media/website.192b346e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.10ebfd9c.js",
     "static/js/2.21b240d6.chunk.js",
-    "static/css/main.cfeb538a.chunk.css",
-    "static/js/main.2d2e6dde.chunk.js"
+    "static/css/main.b0fec2f0.chunk.css",
+    "static/js/main.4f25d840.chunk.js"
   ]
 }
