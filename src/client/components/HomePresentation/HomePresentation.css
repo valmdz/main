@@ -62,6 +62,13 @@ body:not(.mobile) .hover-text:hover+.hover-image {
   line-height: 2rem;
 }
 
+.projects-link {
+  font-size: 2rem;
+  font-weight: 400;
+  text-decoration: wavy underline #D98C43 2px;
+  color: #D98C43;
+}
+
 @media screen and (max-width: 990px) {
   .skills-home {
     position: initial;
