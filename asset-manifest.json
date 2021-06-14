@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0fec2f0.chunk.css",
-    "main.js": "/static/js/main.915f78bb.chunk.js",
-    "main.js.map": "/static/js/main.915f78bb.chunk.js.map",
+    "main.css": "/static/css/main.bc3db282.chunk.css",
+    "main.js": "/static/js/main.337a4977.chunk.js",
+    "main.js.map": "/static/js/main.337a4977.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10ebfd9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.10ebfd9c.js.map",
     "static/js/2.21b240d6.chunk.js": "/static/js/2.21b240d6.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.4e8966b2.chunk.js": "/static/js/3.4e8966b2.chunk.js",
     "static/js/3.4e8966b2.chunk.js.map": "/static/js/3.4e8966b2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b0fec2f0.chunk.css.map": "/static/css/main.b0fec2f0.chunk.css.map",
+    "static/css/main.bc3db282.chunk.css.map": "/static/css/main.bc3db282.chunk.css.map",
     "static/js/2.21b240d6.chunk.js.LICENSE.txt": "/static/js/2.21b240d6.chunk.js.LICENSE.txt",
     "static/media/SeeCv-link-01.5d1d540a.svg": "/static/media/SeeCv-link-01.5d1d540a.svg",
     "static/media/Valentina-blob.242019f9.png": "/static/media/Valentina-blob.242019f9.png",
@@ -20,15 +20,17 @@
     "static/media/project-fastest.14ea9abb.jpg": "/static/media/project-fastest.14ea9abb.jpg",
     "static/media/project-feast.f7c10a46.jpg": "/static/media/project-feast.f7c10a46.jpg",
     "static/media/project-gifs.524c345f.jpg": "/static/media/project-gifs.524c345f.jpg",
+    "static/media/project-meetUp.4852f0c6.jpg": "/static/media/project-meetUp.4852f0c6.jpg",
     "static/media/project-review.7bd2204c.jpg": "/static/media/project-review.7bd2204c.jpg",
     "static/media/project-vianney.bad3b797.jpg": "/static/media/project-vianney.bad3b797.jpg",
     "static/media/project-weather.72cd0a1b.jpg": "/static/media/project-weather.72cd0a1b.jpg",
+    "static/media/project-welcome.5dca44e3.jpg": "/static/media/project-welcome.5dca44e3.jpg",
     "static/media/website.192b346e.svg": "/static/media/website.192b346e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.10ebfd9c.js",
     "static/js/2.21b240d6.chunk.js",
-    "static/css/main.b0fec2f0.chunk.css",
-    "static/js/main.915f78bb.chunk.js"
+    "static/css/main.bc3db282.chunk.css",
+    "static/js/main.337a4977.chunk.js"
   ]
 }
