@@ -65,8 +65,8 @@ body:not(.mobile) .hover-text:hover+.hover-image {
 .projects-link {
   font-size: 2rem;
   font-weight: 400;
-  text-decoration: wavy underline #D98C43 2px;
-  color: #D98C43;
+  text-decoration: wavy 2px underline #DBB027;
+  color:#2740DB;
 }
 
 @media screen and (max-width: 990px) {

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Retrato from "../../assets/images/autoretrato.svg";
 import "./HomePresentation.css";
 
@@ -16,9 +17,9 @@ export const HomePresentation = () => {
         projects with
         <span className="color-change"> inspiring people.</span>
         <br />
-        <a href="/projects" className="projects-link">
+        <Link to="/projects"  className="projects-link">
           See projects
-        </a>
+        </Link>
       </div>
     </>
   );
