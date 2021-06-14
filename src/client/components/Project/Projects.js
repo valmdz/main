@@ -11,6 +11,63 @@ import MeetUp from "../../assets/images/projects/project-meetUp.jpg";
 export const projects = {
   projects: [
     {
+      id: 9,
+      title: "MeetUp redesign",
+      image: MeetUp,
+      about:
+        "The project seeks to optimize the user flow from searching events to booking them.",
+      year: 2020,
+      keywords: ["UX design", "UI design", "Figma", "Illustrator", "Photoshop"],
+      links: {
+        website: "",
+        github: "",
+        process:
+          "https://drive.google.com/file/d/1V97z1zXJnjqJxNNzB7vRKxKfHlHjGDmg/view?usp=sharing",
+        figma:
+          "https://www.figma.com/proto/zgDuwWpudTc7BO8iPhbo7T/MeetUp-UX-FINAL-Copy?node-id=197%3A17121&scaling=min-zoom",
+      },
+      setting: "individual",
+    },
+    {
+      id: 8,
+      title: "Welcome - Google x Techfugees hackathon",
+      image: Welcome,
+      about:
+        "Welcome is a platform that offers personalized assistance to newcomers in Denmark.",
+      year: 2020,
+      keywords: ["UI design", "UX design", "Figma", "Illustrator", "Photoshop"],
+      links: {
+        website: "",
+        github: "",
+        figma:
+          "https://www.figma.com/proto/X7kik6q4MJd5Tq0Xka3PB1/Welcome?node-id=1%3A3&scaling=min-zoom",
+      },
+      setting: "group",
+    },
+    {
+      id: 3,
+      title: "Animo production",
+      image: AnimoProduction,
+      about:
+        "Redesign and implementation of a website for a california based productions company.",
+      year: 2020,
+      keywords: [
+        "Squarespace",
+        "JS",
+        "CSS",
+        "HTML",
+        "UX design",
+        "UI design",
+        "Figma",
+      ],
+      links: {
+        website: "https://www.animoproduction.com/",
+        github: "",
+        process: "",
+      },
+      setting: "individual",
+    },
+    {
       id: 1,
       title: "Rate my CV",
       image: RateCV,
@@ -59,21 +116,7 @@ export const projects = {
       },
       setting: "individual",
     },
-    {
-      id: 3,
-      title: "Animo production",
-      image: AnimoProduction,
-      about:
-        "Redesign and implementation of a website for a california based productions company.",
-      year: 2020,
-      keywords: ["Squarespace", "JS", "CSS", "HTML", "UX design", "UI design", "Figma"],
-      links: {
-        website: "https://www.animoproduction.com/",
-        github: "",
-        modal: "true",
-      },
-      setting: "individual",
-    },
+
     {
       id: 4,
       title: "Fastest presser",
@@ -129,36 +172,6 @@ export const projects = {
       links: {
         website: "https://www.vianneymendez.com/shop/",
         github: "",
-      },
-      setting: "individual",
-    },
-    {
-      id: 8,
-      title: "Welcome - Google x Techfugees hackathon",
-      image: Welcome,
-      about:
-        "Welcome is a platform that offers personalized assistance to newcomers in Denmark.",
-      year: 2020,
-      keywords: ["UI design", "UX design", "Figma", "Illustrator", "Photoshop"],
-      links: {
-        website: "",
-        github: "",
-        modal: "true",
-      },
-      setting: "group",
-    },
-    {
-      id: 9,
-      title: "MeetUp redesign",
-      image: MeetUp,
-      about:
-        "The project seeks to optimize the user flow from searching events to booking them.",
-      year: 2020,
-      keywords: ["UX design", "UI design", "Figma", "Illustrator", "Photoshop"],
-      links: {
-        website: "",
-        github: "",
-        modal: "true",
       },
       setting: "individual",
     },
