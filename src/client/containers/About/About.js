@@ -1,5 +1,5 @@
 import React from "react";
-import Portrait from "../../assets/images/Valentina.png";
+import Portrait from "../../assets/images/Valentina-blob.png";
 import CvLink from "../../assets/images/SeeCv-link-01.svg";
 import { ResumedCv } from "../../components/ResumedCv/ResumedCv";
 import "./About.css";

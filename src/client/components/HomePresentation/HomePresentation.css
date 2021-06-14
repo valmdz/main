@@ -46,7 +46,7 @@ body:not(.mobile) .hover-text:hover+.hover-image {
 }
 
 .hover-image img {
-  width: 9em;
+  width: 7em;
   margin-bottom: 0;
 }
 

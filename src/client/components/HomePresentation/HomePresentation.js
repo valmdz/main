@@ -1,5 +1,5 @@
 import React from "react";
-import Retrato from "../../assets/images/autoretrato.png";
+import Retrato from "../../assets/images/autoretrato.svg";
 import "./HomePresentation.css";
 
 export const HomePresentation = () => {
@@ -8,7 +8,7 @@ export const HomePresentation = () => {
       <div className="home-presentation">
         Hola! I am <span className="hover-text">Valentina,</span>{" "}
         <div className="hover-image">
-          <img src={Retrato} alt="portrait" />
+          <img src={Retrato} alt="portrait" loading="lazy"/>
         </div>
         <span className="wavy">a creative web developer and designer</span>. I
         am interested in building meaningful and{" "}

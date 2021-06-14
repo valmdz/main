@@ -14,11 +14,11 @@
 .contact a {
   text-decoration: none;
   font-weight: 500;
-  color: black;
+  color: #2740DB;
 }
 
 .contact a:hover {
-  text-decoration: line-through #1A80D9;
+  text-decoration: underline wavy  #DBB027;
 }
 
 @media screen and (max-width: 490px) {
