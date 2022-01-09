@@ -9,7 +9,7 @@ export const About = () => {
     <div className="about">
       <img src={Portrait} alt="portrait" className="portrait-valentina" />
       <h2 className="content">
-        I am web developer/architect based in Copenhagen, Denmark.
+        I am Valentina, a digital designer / web developer based in Copenhagen, Denmark.
         <br /> I did my bachelor's in Architecture at{" "}
         <a
           href="https://tec.mx/es/estudios-creativos/arquitecto"
